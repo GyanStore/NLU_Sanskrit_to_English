@@ -1,0 +1,5 @@
+Metric,Value
+Dev BLEU,0.2903
+Test BLEU,0.2858
+Epochs,6
+Colleague overlap,54.3%
